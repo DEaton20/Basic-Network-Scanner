@@ -16,13 +16,8 @@ A lightweight Python-based network scanner that uses ARP requests to discover ac
 - Networking Fundamentals
 
 ## Example Usage:
-python3 network_scanner.py -t 192.168.1.0/24
+<img width="610" height="182" alt="Screenshot 2026-05-30 002921" src="https://github.com/user-attachments/assets/7634f72b-c46d-4840-a4aa-52a7f46500b9" />
 
-Sample Output:
-IP                  MAC Address
--------------------------------------------
-192.168.1.1         00:11:22:33:44:55
-192.168.1.25        AA:BB:CC:DD:EE:FF
 
 ## Skills Demonstrated:
 - Network programming
